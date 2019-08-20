@@ -35,6 +35,12 @@ Furthermore, Ingredient Name, Quantity & Unit extracted too! Everything Neat & C
 ## Current Proceedings Include 
 - Data Collection of Recipes from various sources 
 - Data Preprocessing 
+### Proceedings in progress
+- Build and train the model
+- Distributed and encrypted training of the models
+- Deployment
+- Demo app
+- Project replication installation and guidelines
 
 ## Requirements
 * Python 3.7 or above

@@ -1,5 +1,5 @@
 
-"![](images/udacious recipe.png)"
+![](images/udacious recipe.png)
 
 # Udacious Recipes
 This repository contains the showcase project developed in the Secure and Private AI Scholarship. For more details, please visit this site
